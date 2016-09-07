@@ -1,0 +1,22 @@
+ Bowen Sun
+ bs2bg
+
+I signed up to partner with Thomas Rochman, but we had a disagreement with what we need to do.
+My idea is basically too complex for a partner to like so we ended up working on different stuffs.
+So please grade our work separately.
+
+The Game is straightforward, left right key to move, S to shoot and SPACE to jump. There are also
+meticulously designed hints in the game telling you how to play.
+
+Standard Features:
+1.User Input
+2.Graphics , 90% of my graphics are completely original! And this is a graphic-heavy game. Hope you enjoy my hand-drawn work.
+3.Game start and end.
+
+4. Animation: Characters designed frame by frame!
+5. Enemies: who even knows how to fire a gun! and drive a tank!
+6. Collectables: There are guns and vehicles you can pick up. Who doesn’t like weapons?
+7. Scrolling level: I created a tiny 2-D world. Trees, clouds, towers.
+8. Timer: there is no explicitly timer display, but internally the story of game runs according to the timer.
+9. Health meter: basic feature~
+10. Sound Effect: You will find the tank and flying boot sound refreshing!
